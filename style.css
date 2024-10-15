@@ -1,0 +1,44 @@
+
+
+.container{
+  margin-bottom: 100px;
+
+}
+
+.nav-link{
+  color: rgb(0, 0, 0);
+}
+.banner-text h1{
+  color: #2f4784;
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+.watch{
+  border-radius: 40px;
+  background-color:#fb245f ;
+  font-size: 16px;
+  padding: 15px 30px;
+  color: white;
+  font-weight: bolder;
+  border-color: #fb245f;
+  box-shadow: 5px 5px 5px gray;
+  margin-right: 12px;
+}
+.get-now{
+  background-color: #2f4784;
+  border-color: #2f4784;
+}
+
+.bottom{
+  padding-top: 100px;
+  background-color: #f13277;
+}
+footer{
+  background-color: black;
+  padding: 40px;
+
+}
+
+body{
+  background-color: #f8f9fa;
+}
